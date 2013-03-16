@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classMaps>
+	<columnParameters classId="test">
+		<operate operateId="">
+			<columnParameter columnName="columnName1" fieldName="fieldName1"
+				parameterName="parameterName1" />
+			<columnParameter columnName="columnName2" fieldName="fieldName2"
+				parameterName="parameterName2" />
+			<columnParameter columnName="columnName3" fieldName="fieldName3"
+				parameterName="parameterName3" />
+			<columnParameter columnName="columnName4" fieldName="fieldName4"
+				parameterName="parameterName4" />
+		</operate>
+	</columnParameters>
+
+	<columnParameters classId="itachi">
+		<operate operateId="">
+			<columnParameter columnName="columnName1" fieldName="fieldName1"
+				parameterName="parameterName1" />
+			<columnParameter columnName="columnName2" fieldName="fieldName2"
+				parameterName="parameterName2" />
+			<columnParameter columnName="columnName3" fieldName="fieldName3"
+				parameterName="parameterName3" />
+			<columnParameter columnName="columnName4" fieldName="fieldName4"
+				parameterName="parameterName4" />
+		</operate>
+	</columnParameters>
+</classMaps>
