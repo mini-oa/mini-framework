@@ -317,7 +317,7 @@ public abstract class HibernateGenericDaoImpl<T> implements GenericDao<T> {
 	public T query(String statement, T t) throws Exception {
 		// TODO Auto-generated method stub
 		List<FieldColumn> filedColumn = getFieldColumn(statement);
-		System.out.println("读取了filed数据");
+		//System.out.println("读取了filed数据");
 
 		return query(statement, t, filedColumn);
 	}
